@@ -1,2 +1,2 @@
 # To-Good-Co
-This repository contains a simple and interactive analog clock built using [HTML/CSS/JavaScript] (or specify your tech stack, e.g., Python, JavaFX, etc.). The clock dynamically displays the current time using smoothly animated hour, minute, and second hands, mimicking the appearance and behavior of a traditional analog clock.
+This is a visually engaging animation project built with HTML, CSS, and JavaScript, inspired by modern brand websites. It uses advanced libraries like Locomotive Scroll and GSAP to create fluid animations, smooth scrolling effects, and immersive visuals.
